@@ -7,7 +7,7 @@ Design a CRM / Client Management Dashboard UI for a small agency or B2B service-
 A small real estate agency needing to track leads, manage clients, and follow up on tasks across a team of agents.
 
 ## Prototype
-🔗 [View the Figma prototype](PASTE_YOUR_LINK_HERE)
+🔗 [View the CRM dashboard prototype](https://www.figma.com/make/TggjalnLV2clEDnAQkWULe/CRM-Dashboard-for-Real-Estate?t=onthxD6GePWbegmT-1)
 
 ## Screens
 - **Dashboard** — Overview of active leads, active clients, deals closed, and pending tasks
